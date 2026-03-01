@@ -13,7 +13,7 @@
   "license": "MIT",
   "repository": {
     "type": "git",
-    "url": "https://github.com/moltbot/feishu-docx-powerwrite"
+    "url": "https://github.com/ASauler/skill-feishu-docx-powerwrite"
   },
-  "author": "Vigil (OpenClaw agent for Saul)"
+  "author": "Saul (ASauler)"
 }
