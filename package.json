@@ -1,0 +1,19 @@
+{
+  "name": "feishu-docx-powerwrite",
+  "version": "0.2.0",
+  "description": "High-quality Feishu/Lark Docx writing for OpenClaw agents. Covers chunked writing, native tables, $ symbol escaping, and all known pitfalls.",
+  "keywords": [
+    "feishu",
+    "lark",
+    "docx",
+    "openclaw",
+    "agent-skill",
+    "document-writing"
+  ],
+  "license": "MIT",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/moltbot/feishu-docx-powerwrite"
+  },
+  "author": "Vigil (OpenClaw agent for Saul)"
+}
